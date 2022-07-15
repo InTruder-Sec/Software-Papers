@@ -1,38 +1,39 @@
-Software Papers:
+------------------------------------------
+Artificial Inteligence & Machine Learing 
+------------------------------------------
+Wireless Connectivity 
 
-Artificial Inteligence & Machine Learing {
-    Title:
-}
+01 | Title:Advanced Antennas Push Forward Wireless Connectivity
+Author: Kwai Man Luk, Baoyan Duan
+Category: Wireless Technology
+Discription:Antennas are critical components for wireless connectivity. In general, antennas with a wide bandwidth, compact size, and high efficiency are required in order to achieve a high level of system performance with modern wireless communication systems, sensor networks, radio astronomy, deep space probes, and so on.
+Link: https://www.sciencedirect.com/science/article/pii/S2095809922001382/pdfft?md5=8e8c022a25f01c1d26f1eff1c0b9b84a&pid=1-s2.0-S2095809922001382-main.pdf
 
-Wireless Connectivity {
-    01;Title:Advanced Antennas Push Forward Wireless Connectivity;Author: Kwai Man Luk, Baoyan Duan;Category: Wireless Technology;Discription:Antennas are critical components for wireless connectivity. In general, antennas with a wide bandwidth, compact size, and high efficiency are required in order to achieve a high level of system performance with modern wireless communication systems, sensor networks, radio astronomy, deep space probes, and so on.;Link: https://www.sciencedirect.com/science/article/pii/S2095809922001382/pdfft?md5=8e8c022a25f01c1d26f1eff1c0b9b84a&pid=1-s2.0-S2095809922001382-main.pdf
-}
+------------------------------------------
+Rocket Technology
 
-Autmobile Evolution {
-    Title:
-}
+01 | Title:With Great Expectations, Web Telescope Finally Lifts Off
+Author: Mitch Leslie;Category: Rocket Technology
+Discription: The Hubble Space Telescope has revolutionized astronomy and awed the public with gorgeous photos of the cosmos. Scientists expect even bigger achievements from Hubble’s successor, the James Webb Space Telescope (JWST), which blasted off atop an Ariane 5 rocket from the Guiana Space Center in Kourou, French Guiana, on December 25, 2021
+Link: https://www.sciencedirect.com/science/article/pii/S209580992200087X;
+------------------------------------------
 
-Rocket Technology {
-    01;Title:With Great Expectations, Web Telescope Finally Lifts Off;Author: Mitch Leslie;Category: Rocket Technology;Discription: The Hubble Space Telescope has revolutionized astronomy and awed the public with gorgeous photos of the cosmos. Scientists expect even bigger achievements from Hubble’s successor, the James Webb Space Telescope (JWST), which blasted off atop an Ariane 5 rocket from the Guiana Space Center in Kourou, French Guiana, on December 25, 2021;Link: https://www.sciencedirect.com/science/article/pii/S209580992200087X;
-}
-
-Information Technology {
-    Title:
-}
-
-Chemical Engineering {
-    Title:
-}
-
-Thermal Engineering {
-    Title:
-}
-
-Web Technology {
-
-}
-
-Cyber Security {
-    01;Title:IHA Cryptography Algorithm;Author: Deep Dhakate;Category: Cyber Security;Discription: IH is a unique hashing algorithm which works on base 10 digits for hashing. This hashing algorithm works on each of these digits to convert them into an unpredictable number format. The overall size of the hash is 38, 6 greater than the size of MD5 Hashing algorithm. The algorithm is designed such that operations made on the digits is almost impossible to reverse, and its really hard even for a machine to reverse it using all the possible digits. Each of letters, numbers, symbol, and even different number of spaces have different number of spaces.;Link: https://github.com/InTruder-Sec/IHA/blob/main/Documentation%20.pdf
-    02;Title:
-}
+------------------------------------------
+Information Technology 
+------------------------------------------
+------------------------------------------
+Chemical Engineering
+------------------------------------------
+------------------------------------------
+Thermal Engineering 
+------------------------------------------
+------------------------------------------
+Web Technology 
+------------------------------------------
+------------------------------------------
+Cyber Security 
+01 | Title:IHA Cryptography Algorithm
+Author: Deep Dhakate
+Category: Cyber Security;Discription: IH is a unique hashing algorithm which works on base 10 digits for hashing. This hashing algorithm works on each of these digits to convert them into an unpredictable number format. The overall size of the hash is 38, 6 greater than the size of MD5 Hashing algorithm. The algorithm is designed such that operations made on the digits is almost impossible to reverse, and its really hard even for a machine to reverse it using all the possible digits. Each of letters, numbers, symbol, and even different number of spaces have different number of spaces.
+Link: https://github.com/InTruder-Sec/IHA/blob/main/Documentation%20.pdf
+------------------------------------------
